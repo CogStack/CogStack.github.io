@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Cogstack
 
-You can use the [editor on GitHub](https://github.com/CogStack/CogStack.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Cogstack is an information retrieval and extraction platform which implements best-of-breed enterprise search, natural language processing, analytics and visualisation technologies to unlock the health record and assist in clinical decision making and research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Electronic health record systems are often closed, proprietary and contain incomplete and unstructured data. The result is that the wealth of information potentially available within health records is often inaccessible and underused.
 
-### Markdown
+Cogstack implements new data mining techniques within NHS Trusts – specifically, the ability to search any clinical data source (unstructured and structured), and Natural Language Processing applications developed to automate information extraction of medical concepts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These tools allow clinical text to be searched for specific terms using simple or complex syntax, rapidly retrieving the data needed to answer complex queries such as “has this patient received any high cost treatments that have not been captured in their discharge summary?” or “provide me with patients with early onset Parkinson’s disease”.
 
-```markdown
-Syntax highlighted code block
+So far, over 9 million free text documents and over 250 million diagnostic results and reports have been processed within CogStack. The speed at which queries can be developed, results returned and refined is very powerful and has allowed clinical trials to find and recruit patients who would have otherwise been difficult to locate.
 
-# Header 1
-## Header 2
-### Header 3
+We are currently working with three NHS Foundation Trusts (South London and Maudsley, King’s College Hospital, and University College London Hospitals) to implement this platform, resulting in lasting improvements to recruitment, business intelligence and research capabilities.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CogStack/CogStack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Cogstack Pipeline](fig/KCL_boxed_redcmyk_A4-002-3.gif) ![Cogstack Pipeline](fig/logo-nhs.png) ![Cogstack Pipeline](fig/dnmkjemkekmbnegf.png) ![Cogstack Pipeline](fig/chdabdkadmelbenn.png) ![Cogstack Pipeline](fig/cti-banner.jpg) ![Cogstack Pipeline](fig/igimnobhggalgaln.png) ![Cogstack Pipeline](fig/kmlbdnlfopmabpbk.png) ![Cogstack Pipeline](fig/bojpdbeeffipbedm.png)
