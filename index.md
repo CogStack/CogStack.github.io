@@ -10,7 +10,7 @@ These tools allow clinical text to be searched for specific terms using simple o
 
 So far, at the King's College Hospital deployment over 12 million free text documents and over 250 million diagnostic results and reports have been processed within CogStack, with live updates processes at near real-time. The speed at which queries can be developed, results returned and refined is very powerful tool for data expoloration and has allowed clinical trials to find and recruit patients who would have otherwise been difficult to locate. Further extensions enable opportunities for live alerting based on information recorded in the clinical record and semantic search providing enabling both service improvement which are being explored at King's.
 
-We are currently working with a number of NHS Foundation Trusts (South London and Maudsley, King’s College Hospital, and University College London and Norfolk and Norwich University Hospitals) to implement this platform, resulting in lasting improvements to recruitment, business intelligence and research capabilities.
+We are currently working with a number of NHS Foundation Trusts (South London and Maudsley, King’s College Hospital, and University College London University Hospitals) to implement this platform, resulting in lasting improvements to recruitment, business intelligence and research capabilities.
 
 CogStack Ecosystem
 ------------------
