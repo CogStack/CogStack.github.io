@@ -15,7 +15,7 @@ We are currently working with a number of NHS Foundation Trusts (South London an
 CogStack Ecosystem
 ------------------
 
- * [CogStack-Search](https://github.com/CogStack/cogstack) A Distributed, fault tolerant batch processing for Natural Language Applications and Search, using remote partitioning
+ * [CogStack-Pipeline](https://github.com/CogStack/cogstack) A Distributed, fault tolerant batch processing for Natural Language Applications and Search, using remote partitioning
 
  * [CogStack-SemEHR](https://github.com/CogStack/SemEHR) Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research
  
