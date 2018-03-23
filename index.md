@@ -15,12 +15,12 @@ We are currently working with a number of NHS Foundation Trusts (South London an
 CogStack Ecosystem
 ------------------
 
- * [CogStack](https://github.com/CogStack/cogstack) A Distributed, fault tolerant batch processing for Natural Language Applications and Search, using remote partitioning
+ * [CogStack-Pipeline](https://github.com/CogStack/cogstack) A Distributed, fault tolerant batch processing for Natural Language Applications and Search, using remote partitioning
 
- * [SemEHR](https://github.com/CogStack/SemEHR) Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research
+ * [CogStack-SemEHR](https://github.com/CogStack/SemEHR) Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research
  
  * [CogStack-TR](https://github.com/CogStack/CogStack-TR)Trial Recruitment made easy by using CogStack and SemEHR to automatically match patients to Trials and Trials to Patients (using Trials Inclusion/Exclusion Criteria from AACT database from ClinicalTrials.cov and UK Trials Gateway)
  
- * [Patient Timeline](https://github.com/CogStack/patient-timeline) Patient Timeline Browser, inlcuding full search text capabilities.
+ * [CogStack-Timeline](https://github.com/CogStack/patient-timeline) Patient Timeline Browser, inlcuding full search text capabilities.
 
 ![Cogstack Pipeline](fig/KCL_boxed_redcmyk_A4-002-3.gif) ![Cogstack Pipeline](fig/logo-nhs.png) ![Cogstack Pipeline](fig/dnmkjemkekmbnegf.png) ![Cogstack Pipeline](fig/chdabdkadmelbenn.png) ![Cogstack Pipeline](fig/cti-banner.jpg) ![Cogstack Pipeline](fig/igimnobhggalgaln.png) ![Cogstack Pipeline](fig/kmlbdnlfopmabpbk.png) ![Cogstack Pipeline](fig/bojpdbeeffipbedm.png)
