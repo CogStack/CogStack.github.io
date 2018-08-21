@@ -1,6 +1,6 @@
 Welcome to Cogstack
 ===================
-CogStack is an application framework that allows you to extract information from unstructured data sources e.g. Electronic Clinical Records, where majority of the information content is locked-up (i.e. not programmatically queryable) in multiple formats of unstructured data (i.e. binary word docs, PDFs, images, text fields etc). Once extracted, harmonised and processed, multiple uses of this unstructured data become possible based around information retrieval and extraction, these include Natural Language Processing (NLP), Enterprise Search, Alerting, Cohort Selection and research.
+CogStack is an application framework that allows you to extract information from unstructured data sources e.g. Electronic Clinical Records where majority of the information content is locked-up (i.e. not programmatically queryable) in multiple formats of unstructured data (i.e. binary word docs, PDFs, images, text fields etc). Once extracted, harmonised and processed, multiple uses of this unstructured data become possible based around information retrieval and extraction, these include Natural Language Processing (NLP), Enterprise Search, Alerting, Cohort Selection and Research.
 
 Electronic health record systems are often closed, proprietary and contain incomplete and unstructured data. The result is that the wealth of information potentially available within health records is often inaccessible and underused.
 
